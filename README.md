@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doshi</h1>
-<h3 align="center">I'm a Discord bot Developer and a Games Development student. Feel free to DM me on discord Doshi#4882.</h3>
+<h3 align="center">I'm a Discord bot Developer and a Games Development student. Feel free to DM me on discord doshidev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doshidog&label=Profile%20views&color=0e75b6&style=flat" alt="doshidog" /> </p>
 
